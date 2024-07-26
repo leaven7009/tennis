@@ -26,7 +26,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Arial', sans-serif;
-    font-size: 30px; /* 调整字体大小 */
+    font-size: 25px; /* 调整字体大小 */
     color: #000000;
     white-space: nowrap; /* 防止文本换行 */
 }
