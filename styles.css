@@ -37,8 +37,8 @@ body, html {
 /* 新增的固定日期样式 */
 .fixed-date {
     position: absolute;
-    top: 75%; /* 距离顶部 % 的位置 */
-    left: 60%; /* 距离左侧 % 的位置 */
+    top: 80%; /* 距离顶部 % 的位置 */
+    left: 65%; /* 距离左侧 % 的位置 */
     transform: translate(-50%, -50%); /* 居中修正 */
     font-family: 'PingFang SC', '苹方', 'Microsoft YaHei', sans-serif; /* 优先使用苹方字体 */
     font-size: 16px; /* 可根据你的图片实际比例微调大小 */
