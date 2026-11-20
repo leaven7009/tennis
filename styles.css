@@ -37,12 +37,12 @@ body, html {
 /* 新增的固定日期样式 */
 .fixed-date {
     position: absolute;
-    top: 75%; /* 距离顶部 75% 的位置 */
-    left: 50%; /* 距离左侧 50% 的位置 */
+    top: 80%; /* 距离顶部 % 的位置 */
+    left: 70%; /* 距离左侧 % 的位置 */
     transform: translate(-50%, -50%); /* 居中修正 */
     font-family: 'PingFang SC', '苹方', 'Microsoft YaHei', sans-serif; /* 优先使用苹方字体 */
-    font-size: 22px; /* 可根据你的图片实际比例微调大小 */
-    font-weight: bold; /* 加粗以匹配图片中的样式 */
+    font-size: 18px; /* 可根据你的图片实际比例微调大小 */
+    font-weight: normal; /* 加粗以匹配图片中的样式 */
     color: #ffffff; /* 白色字体，如果看不清可以改成黑色 #000000 */
     text-shadow: 1px 1px 2px rgba(0,0,0,0.5); /* 添加一点阴影，防止在浅色背景上看不清 */
     white-space: nowrap;
